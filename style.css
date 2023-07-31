@@ -1,3 +1,7 @@
-body {
-    background-color:orange;
+.bg{
+    background-color:rgb(156, 116, 42);
+}
+
+.subheadings{
+    color:maroon;
 }
